@@ -10,7 +10,7 @@ I'm Adam, enthusiastic about machine learning and AI. This repository showcases 
 
 - Task: Classifying handwritten digits as even or odd.
 - Techniques: Explored Support Vector Machines (SVM) and Neural Networks (NNs) for accurate classification.
-- Language: R
+- Language: R\
 Project Link: [Project 1](https://github.com/mosamadam/Project-1)
 
 ### Project 2: Predictive Analysis with regression and various tree based models 
