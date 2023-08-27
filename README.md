@@ -10,15 +10,15 @@ I'm Adam, enthusiastic about machine learning and AI. This repository showcases 
 
 - Task: Classifying handwritten digits as even or odd.
 - Techniques: Explored Support Vector Machines (SVM) and Neural Networks (NNs) for accurate classification.
-- Language: R\\
-Project Link: [Project 1](https://github.com/mosamadam/Project-1)
+- Language: R
+- Project Link: [Project 1](https://github.com/mosamadam/Project-1)
 
 ### Project 2: Predictive Analysis with regression and various tree based models 
 
 - Task: Predicting heart failure survival rates and bike share rentals per hour.
 - Techniques: Logistic regression, classification trees, random forests, gradient boosted trees, extreme boosting.
 - Language: R
-Project Link: [Project 2](https://github.com/mosamadam/Project-2)
+- Project Link: [Project 2](https://github.com/mosamadam/Project-2)
 
 ## Connect with Me
 
