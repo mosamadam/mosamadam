@@ -8,7 +8,7 @@ I'm Adam, enthusiastic about computational mechanics, machine learning and AI. T
 
 ### Thesis: Computational Modelling of Rheumatic Heart using TPM
 
-- Title: Computational modelling of rheumatic heart using TPM (Masters thesis)
+- Title: A tri-phasic continuum model for the numerical analysis of biological tissue proliferation using the Theory of Porous Media. Application to cardiac remodelling in rheumatic heart disease
 - Description: Developed an advanced model using the finite element method (FEM) and the theory of porous media (TPM) to better understand and predict the progression and treatment effectiveness of Rheumatic Heart Disease using enhanced imaging techniques.
 - Technologies: C++, Fortran.
 - Thesis Link: [Masters Thesis](https://github.com/mosamadam/Masters-Thesis)
