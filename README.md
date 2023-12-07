@@ -1,10 +1,17 @@
-# Welcome to My Machine Learning Projects Repo! 👋
+# Welcome to my Repo! 👋
 
 ## Introduction
 
-I'm Adam, enthusiastic about machine learning and AI. This repository showcases my projects, each offering insights into different facets of the field.
+I'm Adam, enthusiastic about computational mechanics, machine learning and AI. This repository showcases my projects, each offering insights into different facets of the field.
 
 ## Projects
+
+### Thesis: Computational Modelling of Rheumatic Heart using TPM
+
+- Title: Computational modelling of rheumatic heart using TPM (Masters thesis)
+- Description: Developed an advanced model using the finite element method (FEM) and the theory of porous media (TPM) to better understand and predict the progression and treatment effectiveness of Rheumatic Heart Disease using enhanced imaging techniques.
+- Technologies: C++, Fortran.
+- Thesis Link: [Masters Thesis](https://github.com/mosamadam/Masters-Thesis)
 
 ### Project 1: Image Classification with SVM and NNs
 
