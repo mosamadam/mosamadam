@@ -1,4 +1,4 @@
-# Welcome to My Machine Learning Projects Repository! 👋
+# Welcome to My Machine Learning Projects Repo! 👋
 
 ## Introduction
 
@@ -19,6 +19,27 @@ I'm Adam, enthusiastic about machine learning and AI. This repository showcases 
 - Techniques: Logistic regression, classification trees, random forests, gradient boosted trees, extreme boosting.
 - Language: R
 - Project Link: [Project 2](https://github.com/mosamadam/Project-2)
+
+### Project 3: Cryptocurrency Dashboard
+
+- Description: Developed a dashboard for monitoring cryptocurrency price fluctuations, correlations, and key indicators.
+- Technologies: JavaScript (Vue.js, Chart.js), Python (NumPy, Pandas).
+- Project Link: [Project 3](https://github.com/mosamadam/Project-3)
+
+### Project 4: Variational Autoencoder Analysis
+
+- Description: Conducted an analytical write-up on variational autoencoders, focusing on the mathematical foundations and application to handwritten digit recognition.
+- Technologies: Python (TensorFlow, Scikit-learn, NumPy, Pandas).
+- Project Link: [Project 4](https://github.com/mosamadam/Project-4)
+
+### Project 5: Dimensionality Reduction on Datasets
+
+- Description: Implemented PCA, autoencoders, and SOMs for compressing breast cancer and handwritten digit datasets. Evaluated reduced dimensions using the KNN algorithm.
+- Technologies: Python (TensorFlow, Scikit-learn, NumPy, Pandas), R.
+- Project Link: [Project 5](https://github.com/mosamadam/Project-5)
+
+---**
+
 
 ## Connect with Me
 
